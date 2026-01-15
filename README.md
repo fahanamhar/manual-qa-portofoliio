@@ -1,4 +1,4 @@
-#Manual QA Portfolio
+Manual QA Portfolio
 
 Hi,  
 I am learning and working toward a career as a Manual QA Engineer.
