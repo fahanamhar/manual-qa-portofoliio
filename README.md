@@ -19,5 +19,5 @@ I am an aspiring Manual QA Engineer focused on ensuring software quality through
 - Bug-Reports/
 - Test-Scenarios/
 
-## 🎯 Goal
+## Goal
 To contribute to delivering high-quality, user-friendly, and reliable software while continuously improving my QA skills.
