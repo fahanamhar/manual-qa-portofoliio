@@ -1,23 +1,21 @@
-# Login Feature - Test Cases
+# Login – Test Cases
 
-## TC-LOGIN-001
-**Title:** Login with valid credentials  
-**Steps:**
-1. Open login page
-2. Enter valid email and password
-3. Click Login button
+## TC-01: Login with valid data
+**Steps**
+1. Open the login page
+2. Enter a valid email and password
+3. Click the login button
 
-**Expected Result:**  
-User is redirected to dashboard
+**Expected result**
+User is logged in and redirected to the dashboard
 
 ---
 
-## TC-LOGIN-002
-**Title:** Login with invalid password  
-**Steps:**
-1. Open login page
-2. Enter valid email and invalid password
-3. Click Login button
+## TC-02: Login with wrong password
+**Steps**
+1. Open the login page
+2. Enter a valid email and a wrong password
+3. Click the login button
 
-**Expected Result:**  
-Error message is displayed
+**Expected result**
+An error message is shown and the user stays on the login page
