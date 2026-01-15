@@ -1,23 +1,24 @@
 # Manual QA Engineer Portfolio
 
-Hello  
-I am an aspiring Manual QA Engineer focused on ensuring software quality through structured manual testing and clear bug reporting.
+Hello.
+I am an aspiring Manual QA Engineer with a strong interest in software quality.  
+I focus on manual testing, exploratory testing, and writing clear test cases and bug reports to ensure applications meet functional and usability requirements.
 
 ## Skills
 - Manual Testing (Web & Mobile)
-- Test Case & Test Scenario Writing
-- Bug Reporting & Reproduction Steps
-- Exploratory & Regression Testing
+- Test Case and Test Scenario Writing
+- Bug Reporting and Reproduction Steps
+- Exploratory and Regression Testing
 
 ## Tools
 - Google Sheets
-- Jira 
-- Postman 
+- Jira (basic)
+- Postman (basic)
 
 ## Repository Structure
 - Test-Cases/
 - Bug-Reports/
 - Test-Scenarios/
 
-## Goal
-To contribute to delivering high-quality, user-friendly, and reliable software while continuously improving my QA skills.
+## Career Objective
+To contribute to delivering high-quality, secure, and user-friendly software while continuously improving my skills as a QA Engineer.
